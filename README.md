@@ -57,4 +57,4 @@ Built and maintained by [@zulfff](https://github.com/zulfff).
 
 ## License
 
-Dual-license. See [LICENSE](LICENSE) for details.
+GNU Affero General Public License v3.0.
